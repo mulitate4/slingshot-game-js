@@ -1,4 +1,4 @@
-import * as Matter from "matter-js";
+const Matter = require("matter-js");
 
 let engine = Matter.Engine.create();
 
