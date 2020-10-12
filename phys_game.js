@@ -1,4 +1,3 @@
-import matter from './Node_Modules/matter-js/build/matter.min.js'
 
 let engine = Matter.Engine.create();
 
